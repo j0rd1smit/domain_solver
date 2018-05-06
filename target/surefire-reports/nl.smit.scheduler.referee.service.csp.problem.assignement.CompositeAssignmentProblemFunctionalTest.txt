@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nl.smit.scheduler.referee.service.csp.problem.assignement.CompositeAssignmentProblemFunctionalTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.045 sec - in nl.smit.scheduler.referee.service.csp.problem.assignement.CompositeAssignmentProblemFunctionalTest

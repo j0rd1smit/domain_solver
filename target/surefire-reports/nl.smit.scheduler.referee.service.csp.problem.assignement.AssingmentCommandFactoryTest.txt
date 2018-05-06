@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: nl.smit.scheduler.referee.service.csp.problem.assignement.AssingmentCommandFactoryTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.028 sec - in nl.smit.scheduler.referee.service.csp.problem.assignement.AssingmentCommandFactoryTest
